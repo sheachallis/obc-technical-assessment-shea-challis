@@ -14,4 +14,4 @@ USER GUIDE:
 
 - The table is filterable by date and/or sortable by the exceedence score
 
-- Changing/removing the date filter will reset the sort order to default (chronologically by date/time)
+- Changing/removing the date filter will reset the sort order to default
